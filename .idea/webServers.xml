@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3fdd083b-0276-4932-a4e2-a80ea8da9e84" name="local sandbox - plugins" url="http://sandbox.local">
+        <fileTransfer mountedRoot="$USER_HOME$/Local Sites/sandbox/app/public/wp-content/plugins" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
